@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patadeganzo
 - 👀 I’m interested in creating apps and learn
-- 🌱 I’m currently learning python, and javascript
+- 🌱 I’m currently doing python, and javascript
 - 💞️ I’m looking to collaborate on sport-related projects
 - 📫 How to reach me gamachy [at] gmail.com
 
