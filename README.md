@@ -2,7 +2,6 @@
 - 👀 I’m interested in creating apps and learn
 - 🌱 I’m currently doing python, and javascript
 - 💞️ I’m looking to collaborate on sport-related projects
-- 📫 How to reach me gamachy [at] gmail.com
 
 <!---
 patadeganzo/patadeganzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
